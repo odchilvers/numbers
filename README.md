@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Olivia Chilvers
+2. Student ID: 2366117
+3. Email: ochilvers@chapman.edu
+4. Class: CPSC-298-03
 5. Assignment: numbers 
 
 ## Application Purpose
